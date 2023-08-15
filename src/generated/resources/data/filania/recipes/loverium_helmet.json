@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "filania:loverium_ingot"
+    },
+    "Y": {
+      "item": "filania:fila_stone"
+    }
+  },
+  "pattern": [
+    "YXY",
+    "X X"
+  ],
+  "result": {
+    "item": "filania:loverium_helmet"
+  },
+  "show_notification": true
+}

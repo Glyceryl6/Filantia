@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "filania:fine_silver_string"
+    },
+    "Y": {
+      "item": "filania:fabric_hat"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "X X"
+  ],
+  "result": {
+    "item": "filania:silver_boots"
+  },
+  "show_notification": true
+}

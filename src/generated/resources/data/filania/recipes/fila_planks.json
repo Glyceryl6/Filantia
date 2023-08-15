@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "filania:fila_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "filania:fila_planks"
+  }
+}

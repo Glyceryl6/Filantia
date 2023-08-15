@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "filania:silver_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "filania:fine_silver_ingot"
+  }
+}

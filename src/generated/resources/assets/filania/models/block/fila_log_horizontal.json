@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "filania:block/fila_log_top",
+    "side": "filania:block/fila_log"
+  }
+}

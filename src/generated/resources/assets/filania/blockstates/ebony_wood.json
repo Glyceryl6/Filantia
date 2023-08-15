@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "filania:block/ebony_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "filania:block/ebony_wood"
+    },
+    "axis=z": {
+      "model": "filania:block/ebony_wood_horizontal",
+      "x": 90
+    }
+  }
+}

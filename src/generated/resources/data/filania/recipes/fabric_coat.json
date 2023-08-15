@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "filania:fila_string"
+    },
+    "Y": {
+      "item": "filania:fabric_block"
+    }
+  },
+  "pattern": [
+    "Y Y",
+    "XYX",
+    "XYX"
+  ],
+  "result": {
+    "item": "filania:fabric_coat"
+  },
+  "show_notification": true
+}

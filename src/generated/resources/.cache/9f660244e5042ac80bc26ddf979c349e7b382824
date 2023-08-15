@@ -1,0 +1,11 @@
+// 1.20.1	2023-08-13T16:43:51.0635405	Tags for minecraft:block mod id filania
+4ada154cca093b296391b6278c003fd6656ea00e data/filania/tags/blocks/ebony_logs.json
+14a923a38a98213b0feb21fc82bcd0aa2af13add data/filania/tags/blocks/fila_logs.json
+519b91eb52210b0b3c8440d1659f01ad81ad3d6f data/minecraft/tags/blocks/doors.json
+c5af7514cf1bfeb8b048d806b837f8942d0290d3 data/minecraft/tags/blocks/fire.json
+fab3c6e0590af1ea02c356c25b57fc5c31e535e2 data/minecraft/tags/blocks/leaves.json
+cba25ad0260c7047180818315e6e21ff5fb06faf data/minecraft/tags/blocks/logs.json
+1a70362d7c667495f6343e17108a0251481d037d data/minecraft/tags/blocks/mineable/pickaxe.json
+57fcbba71518d24368557e2a820f68dbbcf5fdfc data/minecraft/tags/blocks/planks.json
+1be85aec6eb50f6c32585c4513bae37b52090a36 data/minecraft/tags/blocks/trapdoors.json
+206d8aa5129e7c40e84aeac81b4fe7029f6242d7 data/minecraft/tags/blocks/wool.json

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "filania:block/fila_dirt",
+    "side": "filania:block/fila_grass_dirt_side",
+    "top": "filania:block/fila_grass_dirt_top"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "filania:block/charcoal_torch_off"
+    },
+    "lit=true": {
+      "model": "filania:block/charcoal_torch"
+    }
+  }
+}
